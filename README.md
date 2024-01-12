@@ -15,5 +15,6 @@
 
 
 ### ⚙️ Tools and tech he uses
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,firebase,tailwind,prisma,mongodb,postgres,python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,firebase,tailwind,prisma,mongodb,postgres,py,cpp,vercel,vite)](https://skillicons.dev)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=christosuster&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
